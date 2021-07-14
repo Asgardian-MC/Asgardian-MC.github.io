@@ -25,7 +25,7 @@ mod及插件：同上述，我们有着领地，商店等基础插件的同时�
 
 官方Q群：945684295
 腐竹QQ：147258340
-[客户端下载 提取码ASGD](https://pan.baidu.com/s/1Na5qzYY1UL21AHK3bJwVnw)
+[客户端下载 提取码ASGD](https://pan.baidu.com/s/1a4MIhY7LBzF-1CEw0nCjSw)
 [Java](https://www.java.com/zh-CN/)
 
                                               「人生若只如初见，何事秋风悲画扇」
